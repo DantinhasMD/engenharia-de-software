@@ -99,3 +99,16 @@ Ano 4 — Pensa em impacto, risco e decisão
 - Direito Digital e Proteção de Dados
 - Arquitetura de Sistemas Críticos
 
+
+# Meu foco: 
+1) visão de sistema, abstração correta, automação com responsabilidade
+- A grade cobre isso com: Design e Arquitetura de Software, Engenharia de Configuração e DevOps, Processos de Software e Governança e Capstones integradores
+- Qualidade + Métricas, Engenharia Econômica, Governança, Sistemas Distribuídos, Arquitetura de Sistemas Críticos
+
+Fundamentos fortes (OS, Redes, Código)
+        ↓
+Arquitetura + Sistemas Distribuídos
+        ↓
+Cloud + Observabilidade
+        ↓
+Mentalidade SRE
