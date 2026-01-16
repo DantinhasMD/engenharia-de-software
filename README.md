@@ -112,3 +112,63 @@ Arquitetura + Sistemas Distribuídos
 Cloud + Observabilidade
         ↓
 Mentalidade SRE
+
+## Minha ordem de estudos: 
+### Requisitos básicos 
+- Programação I (Imperativa)
+- Programação II (OO)
+- **Complementar**: Programação III (Genérica e Funcional) 🟡
+- Algoritmos e Estruturas de Dados I
+- Lógica de Programação
+- Matemática Discreta I
+
+### Fundamentação em Plataforma
+- **Complementar:** Fundamentos de Computação e Sistemas
+- Arquitetura de Computadores 🔴
+- Sistemas Operacionais 🔴
+- Redes de Computadores 🔴
+- Programação Concorrente e Paralela 🔴
+
+### Sistemas puro 
+- **Complementar:** Introdução à Engenharia de Software
+- Modelagem e Análise de Software 🔴
+- Engenharia de Requisitos 🔴
+- **Complementar**: Interface Humano-Computador
+- Design e Arquitetura de Software 🟡
+- Bancos de Dados I 🔴
+- Bancos de Dados II (Distribuídos) 🟡
+- Algoritmos e Estruturas de Dados II 🟡
+- **Complementar**: Matemática Discreta II
+- Sistemas Distribuídos 🔴
+
+### Plataforma na prática
+- Engenharia de Configuração e DevOps 🔴
+- Cloud Computing e Infraestrutura como Código 🔴
+- Observabilidade e Confiabilidade de Sistemas (SRE) 🔴
+- Qualidade de Software e Métricas 🔴
+- **Complementar:** Cálculo Diferencial e Integral I
+- Estatística e Probabilidade Aplicadas 🔴
+
+### Confiabilidade, segurança e Longevidade 
+- Verificação e Validação de Software 🟡
+- Manutenção e Evolução de Software 🟡
+- Engenharia de Segurança de Software 🟡
+- **Complementar**: Segurança Avançada e Compliance
+- **Complementar**: Direito Digital e Proteção de Dados
+
+### Maturidade Técnica
+- Compiladores e Linguagens de Programação
+- Métodos Formais Aplicados
+- Empirical Software Engineering
+- Arquitetura de Sistemas Críticos
+- Engenharia Econômica de Software
+
+### Integração total
+- Processos de Software e Governança
+- **Complementar**: Gestão de Projetos de Software
+- **Complementar**: Comunicação Técnica e Escrita Profissional
+- Projeto Integrador I
+- Projeto Integrador II
+- **Complementar**: Álgebra Linear Aplicada
+- Eletivas Avançadas (IA / Infra / Pesquisa)
+- **Complementar**: Ética, Sociedade e Profissão
