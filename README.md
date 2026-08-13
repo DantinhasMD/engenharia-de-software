@@ -1,6 +1,6 @@
 # Engenharia de Software
 
-Grade de Engenharia de Software (Dos meus estudos hahaha)
+Grade de Engenharia de Software (Dos meus estudos hahaha) - Virou um pouco de Engenharia de Plataforma já haha
 
 
 # Currículo de Engenharia de Software
